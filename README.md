@@ -1,2 +1,5 @@
 # N-FitClub
-My first website using HTML and CSS based on the concept Gym Club
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Naveen-Murugesan/pen/ZENEYMb](https://codepen.io/Naveen-Murugesan/pen/ZENEYMb).
+
+Gym-club by Naveen Kumar M
